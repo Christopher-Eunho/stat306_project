@@ -1,2 +1,2 @@
-# stat306_project
-ubc stat 306 final project
+# STAT 306 Project
+This is analysis of the Wine Quality Dataset by Group A3: Chris Jung, Justin Lee, Tetiksha Jain, Ayush Vora
